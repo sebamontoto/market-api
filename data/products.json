@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Leche Entera 1L",
+      "category": "Dairy",
+      "priceCents": 120,
+      "stock": 20,
+      "imageUrl": "https://images.unsplash.com/photo-1580910051074-3eb694886505"
+    },
+    {
+      "id": "p2",
+      "name": "Huevos Camperos (12u)",
+      "category": "Dairy",
+      "priceCents": 310,
+      "stock": 8,
+      "imageUrl": "https://images.unsplash.com/photo-1587486913049-53fc88980cfc"
+    },
+    {
+      "id": "p3",
+      "name": "Pan Integral",
+      "category": "Bakery",
+      "priceCents": 180,
+      "stock": 15,
+      "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff"
+    },
+    {
+      "id": "p4",
+      "name": "Queso Cheddar 200g",
+      "category": "Dairy",
+      "priceCents": 250,
+      "stock": 12,
+      "imageUrl": "https://images.unsplash.com/photo-1552767059-ce182ead6c1b"
+    },
+    {
+      "id": "p5",
+      "name": "Yogur Natural 500g",
+      "category": "Dairy",
+      "priceCents": 140,
+      "stock": 18,
+      "imageUrl": "https://images.unsplash.com/photo-1571212515416-6f6b0d3e0e0c"
+    },
+    {
+      "id": "p6",
+      "name": "Mantequilla 250g",
+      "category": "Dairy",
+      "priceCents": 200,
+      "stock": 10,
+      "imageUrl": "https://images.unsplash.com/photo-1589987607627-06a7b8c8c2c3"
+    },
+    {
+      "id": "p7",
+      "name": "Pan Baguette",
+      "category": "Bakery",
+      "priceCents": 90,
+      "stock": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73"
+    },
+    {
+      "id": "p8",
+      "name": "Croissant",
+      "category": "Bakery",
+      "priceCents": 110,
+      "stock": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1555507036-ab794f575b8c"
+    },
+    {
+      "id": "p9",
+      "name": "Manzanas Rojas 1kg",
+      "category": "Fruits",
+      "priceCents": 220,
+      "stock": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    },
+    {
+      "id": "p10",
+      "name": "Bananas 1kg",
+      "category": "Fruits",
+      "priceCents": 130,
+      "stock": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1574226516831-e1dff420e37a"
+    },
+    {
+      "id": "p11",
+      "name": "Naranjas 1kg",
+      "category": "Fruits",
+      "priceCents": 160,
+      "stock": 28,
+      "imageUrl": "https://images.unsplash.com/photo-1580052614034-c55d20bfee3b"
+    },
+    {
+      "id": "p12",
+      "name": "Tomates 1kg",
+      "category": "Vegetables",
+      "priceCents": 190,
+      "stock": 22,
+      "imageUrl": "https://images.unsplash.com/photo-1561136594-7f68413baa99"
+    },
+    {
+      "id": "p13",
+      "name": "Lechuga",
+      "category": "Vegetables",
+      "priceCents": 100,
+      "stock": 18,
+      "imageUrl": "https://images.unsplash.com/photo-1582515073490-dc39c8d3d1d1"
+    },
+    {
+      "id": "p14",
+      "name": "Zanahorias 1kg",
+      "category": "Vegetables",
+      "priceCents": 120,
+      "stock": 26,
+      "imageUrl": "https://images.unsplash.com/photo-1582515073490-68e8b74e9e65"
+    },
+    {
+      "id": "p15",
+      "name": "Pechuga de Pollo 1kg",
+      "category": "Meat",
+      "priceCents": 550,
+      "stock": 14,
+      "imageUrl": "https://images.unsplash.com/photo-1604908176997-431c3bafad94"
+    },
+    {
+      "id": "p16",
+      "name": "Carne Molida 1kg",
+      "category": "Meat",
+      "priceCents": 620,
+      "stock": 10,
+      "imageUrl": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092"
+    },
+    {
+      "id": "p17",
+      "name": "Arroz Blanco 1kg",
+      "category": "Grains",
+      "priceCents": 180,
+      "stock": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c"
+    },
+    {
+      "id": "p18",
+      "name": "Pasta Spaghetti 500g",
+      "category": "Grains",
+      "priceCents": 140,
+      "stock": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1589308078054-8323d16c9a44"
+    }
+  ]
+}
